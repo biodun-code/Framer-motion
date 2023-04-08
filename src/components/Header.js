@@ -52,7 +52,7 @@ const Header = () => {
         initial={{ y: -200 }}
         animate={{ y: 0 }}
       >
-        <h1>Pizza Joint</h1>
+        <h1>Pizza Hut</h1>
       </motion.div>
     </header>
   );
